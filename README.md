@@ -15,6 +15,8 @@ Unreal Engine 5 Sequencer(시퀀서) 학습 및 컷신/카메라 연출 연습 �
 
 ---
 
+## Engine / Requirements
+
 - Unreal Engine: 5.7
 - 플랫폼: Windows 권장
 - (선택) Git LFS: 대용량 uasset/영상 출력물을 버전관리하려면 권장
