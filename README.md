@@ -11,7 +11,7 @@ Unreal Engine 5 Sequencer(시퀀서) 학습 및 컷신/카메라 연출 연습 �
 
 ### Camera Shakes
 
-![Camera Shakes](CameraShakes.gif)
+<img src="CameraShakes.gif" alt="Camera Shakes" width="100%"/>
 
 ---
 
